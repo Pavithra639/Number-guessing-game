@@ -18,4 +18,3 @@ while True:
         print(f"Congradulations you guessed it in {attempts} attempts.")
         break
         
-a = 10
